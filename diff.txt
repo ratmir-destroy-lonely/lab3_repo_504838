@@ -1,0 +1,7 @@
+diff --git a/run.txt b/run.txt
+index 791d0d5..f24314f 100644
+--- a/run.txt
++++ b/run.txt
+@@ -1 +1,2 @@
+ тест 5
++тест

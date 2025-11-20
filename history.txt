@@ -1,0 +1,20 @@
+*   3f2e78f Merge all branches into release
+|\  
+| * a340bc8 Новый коммит после отката к 3-му коммиту
+* |   f625d46 Merge feature2
+|\ \  
+| * | 4b8baec feature2 change
+| |/  
+* |   a47156a Merge feature1
+|\ \  
+| * | 0a61474 feature1 change
+| |/  
+* | 2c8403a Добавлена строка 'не тест'
+* | 72f1c33 Добавлена строка 'тест'
+|/  
+* 7a30607 add run.txt 5
+* 8a92412 add run.txt 4
+* 7706bd2 add run.txt 3
+* f453977 add run.txt 2
+* 9a617b2 add run.txt 1
+* 594cb98 init
